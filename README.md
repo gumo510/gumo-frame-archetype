@@ -1,4 +1,4 @@
-# gumo-frame-archetype - DDD 脚手架  执行 mvn clean install
+# ddd-scaffold-lite - DDD 脚手架  执行 mvn clean install
 
 ## 1. 脚手架安装使用
 
